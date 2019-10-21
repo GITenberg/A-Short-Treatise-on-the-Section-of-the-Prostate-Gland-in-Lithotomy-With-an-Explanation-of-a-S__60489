@@ -1,5 +1,8 @@
 _repo: A-Short-Treatise-on-the-Section-of-the-Prostate-Gland-in-Lithotomy-With-an-Explanation-of-a-S__60489
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60489-h/images/cover.jpg
 creator:
   author:
     agent_name: Key, C. Aston (Charles Aston)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50976
     wikipedia: https://en.wikipedia.org/wiki/Charles_Aston_Key
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60489#A-Short-Treatise-on-the-Section-of-the-Prostate-Gland-in-Lithotomy-With-an-Explanation-of-a-S_
 gutenberg_issued: '2019-10-13'
 gutenberg_type: Text
 identifiers:
