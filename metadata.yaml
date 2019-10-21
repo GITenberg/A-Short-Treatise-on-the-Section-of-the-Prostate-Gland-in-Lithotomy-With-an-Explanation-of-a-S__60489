@@ -1,0 +1,31 @@
+_repo: A-Short-Treatise-on-the-Section-of-the-Prostate-Gland-in-Lithotomy-With-an-Explanation-of-a-S__60489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Key, C. Aston (Charles Aston)
+    alias: Key, Charles Aston
+    birthdate: 1793
+    deathdate: 1849
+    gutenberg_agent_id: '50976'
+    url: http://www.gutenberg.org/2009/agents/50976
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Aston_Key
+description: ''
+gutenberg_issued: '2019-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lithotomy -- 19th century'
+- !lcsh 'Surgical instruments and apparatus -- 19th century'
+- !lcc 'RD'
+- !lcsh 'Calculi -- Surgery -- 19th century'
+- !lcsh 'Prostate -- Surgery -- 19th century'
+- GITenberg
+title: "A Short Treatise on the Section of the Prostate Gland in Lithotomy\r\nWith\
+  \ an Explanation of a Safe and Easy Method of Conducting the Operation on the Principles\
+  \ of Cheselden"
+url: http://www.gutenberg.org/ebooks/60489
